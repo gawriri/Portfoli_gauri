@@ -87,7 +87,7 @@ npm run preview
 Deployed using Lovable and prepared for deployment through Vercel.
 
 [Website link]
-gaurishindeportfolio.vercel.app
+https://gaurishindeportfolio.vercel.app
 
 [Author]
 
